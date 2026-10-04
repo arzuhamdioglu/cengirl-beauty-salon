@@ -1,0 +1,4 @@
+com\cengirl\beautysalon\application\service\AppointmentServiceTest.class
+com\cengirl\beautysalon\application\service\PaymentServiceTest.class
+com\cengirl\beautysalon\application\service\AuthServiceTest.class
+com\cengirl\beautysalon\domain\model\AppointmentTest.class
